@@ -1,11 +1,11 @@
-# GashissDB Dataset Downloader
+# GasHisSDB Dataset Downloader
 
-This repository provides a simple Python script to automatically download the GashissDB dataset from Figshare directly into Google Colab or any Python environment.
+This repository provides a simple Python script to automatically download the GasHisSDB dataset from Figshare directly into Google Colab or any Python environment.
 The script leverages the Figshare REST API to fetch metadata and download all dataset files with ease.
 
 # Features
 
-Directly downloads the GashissDB dataset from Figshare
+Directly downloads the GasHisSDB dataset from Figshare
 Works in Google Colab, Jupyter Notebook, or local Python
 Minimal dependencies (requests, pathlib)
 Supports chunked downloads for large files
